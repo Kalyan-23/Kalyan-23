@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on Full Stack Development projects like Bus Reservation System and Recipe App<br>👯 I’m looking to collaborate on Web Development & Open Source Projects<br>🤝 I’m looking for help with Advanced Backend Development and System Design<br>🌱 I’m currently learning React, Node.js, and Data Structures & Algorithms<br>💬 Ask me about JavaScript, Python, Web Development, and GitHub Projects<br>⚡ Fun fact: I enjoy building real-world projects more than just theory 😄
+🚀 About Me<br><br>🔭 I’m currently working on Full Stack Development projects and Data Science Projects<br>👯 I’m looking to collaborate on Web Development & Open Source Projects<br>🤝 I’m looking for help with Advanced Backend Development and System Design<br>🌱 I’m currently learning React, Node.js, and Data Structures & Algorithms<br>💬 Ask me about JavaScript, Python, Web Development, and GitHub Projects<br>⚡ Fun fact: I enjoy building real-world projects more than just theory 😄
 
 
 ## 🌐 Socials:
