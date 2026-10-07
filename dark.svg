@@ -38,6 +38,7 @@
       <text x="38" y="234" fill="#c4b5fd">~/build $ learn · build · ship</text>
       <animateTransform attributeName="transform" type="translate" values="92 180;92 176;92 180" dur="5s" repeatCount="indefinite"/>
     </g>
+    <image href="./portrait.png" x="70" y="166" width="348" height="356" preserveAspectRatio="xMidYMid meet" opacity=".98"><animate attributeName="opacity" values=".78;1;.78" dur="5s" repeatCount="indefinite"/></image>
     <rect x="52" y="552" width="384" height="1" fill="url(#edge)" opacity=".9"><animate attributeName="opacity" values=".35;.95;.35" dur="3s" repeatCount="indefinite"/></rect>
 
     <rect x="464" y="106" width="664" height="428" rx="16" fill="#0f172a" fill-opacity=".58" stroke="#c4b5fd" stroke-opacity=".28"/>
