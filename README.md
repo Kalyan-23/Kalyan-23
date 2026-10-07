@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Kalyan-23/Kalyan-23/main/profile-banner-cyan-stack-v2.png" alt="GitHub profile banner for Krishna Kalyan Allampalli, AI and software engineering enthusiast">
+<img src="https://raw.githubusercontent.com/Kalyan-23/Kalyan-23/main/profile-banner-cyan-stack-v3.png" alt="GitHub profile banner for Krishna Kalyan Allampalli, AI and software engineering enthusiast">
 
 <br />
 
