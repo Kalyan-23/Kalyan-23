@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="GitHub profile banner for Krishna Kalyan Allampalli, AI and software engineering enthusiast">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalyan-23/Kalyan-23/main/dark.svg?v=a342a03">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalyan-23/Kalyan-23/main/light.svg?v=a342a03">
+  <img src="https://raw.githubusercontent.com/Kalyan-23/Kalyan-23/main/dark.svg?v=a342a03" alt="GitHub profile banner for Krishna Kalyan Allampalli, AI and software engineering enthusiast">
 </picture>
 
 <br />
